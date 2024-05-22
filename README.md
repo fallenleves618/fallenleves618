@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I’m currently working on Tetris.
+I’m looking for help with c++.
+ I’m looking to collaborate on others.
 <!--
 **fallenleves618/fallenleves618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
